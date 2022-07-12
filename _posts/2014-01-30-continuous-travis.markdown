@@ -14,7 +14,7 @@ Continuous deployment is part of the continuous delivery 'movement'. The idea be
 
 With a working continuous deployment chain in place you'll enforce Git deployments (everything must be committed to be tested and everything must be tested to be deployed), making collaboration easier and deployment faster. So you can focus on making your app even more awesome!
 
-There are a few great companies sailing the continuous wave, in this guide we'll set up continuous deployment for our Ruby on Rails app from GitHub to anynines, using [Travis-ci](http://about.travis-ci.org/). 
+There are a few great companies sailing the continuous wave, in this guide we'll set up continuous deployment for our Ruby on Rails app from GitHub to anynines, using [Travis-ci](https://about.travis-ci.org/). 
 
 __COACH__: Talk about the benefits of continuous deployment.
 
@@ -155,7 +155,7 @@ Checking status of app 'railsgirls'...
   0 of 1 instances running (1 starting)
   0 of 1 instances running (1 starting)
   1 of 1 instances running (1 running)
-Push successful! App 'railsgirls' available at http://railsgirls.de.a9sapp.eu
+Push successful! App 'railsgirls' available at https://railsgirls.de.a9sapp.eu
 Logging out... OK
 {% endhighlight %}
 

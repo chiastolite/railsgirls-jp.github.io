@@ -4,7 +4,7 @@ title: Guides
 permalink: coach
 ---
 
-*Translated by Hiroshi SHIBATA [@hsbt](http://twitter.com/hsbt)*
+*Translated by Hiroshi SHIBATA [@hsbt](https://twitter.com/hsbt)*
 
 # Rails Girls のコーチになるには?
 
@@ -12,7 +12,7 @@ permalink: coach
 
 ### Rails Girls のコーチになるために必要な事はなんですか?
 
-[Rails Girls](http://railsgirls.com)のコーチになるのに何が必要かですって？素晴らしい！ウェブプログラミング初心者を手助けするその気持ちだけで十分に条件を満たしています。では、他に何が必要でしょう？
+[Rails Girls](https://railsgirls.com)のコーチになるのに何が必要かですって？素晴らしい！ウェブプログラミング初心者を手助けするその気持ちだけで十分に条件を満たしています。では、他に何が必要でしょう？
 
 - 根気強く、進んで手助けする気持ちを持ち、フレンドリに接する事:)
 - ワークショップ中はどんな質問(厳密には*テクニカル*なものでなくとも)にも初心者にとって優しく回答するようにする事
@@ -26,7 +26,7 @@ permalink: coach
 - あなたが普段活動する開発者グループとは違った趣を持った人たちに出会えるでしょう。
 - あなたが疑問にさえ感じなかった事を参加者は疑問に思うものです。その質問に答えることで、新しい何かを学ぶでしょう。
 - あなたがコーチをしたグループとRailsGirlsコミュニティから永遠の感謝の気持ちが贈られます。
-- 今までに見たことがないような最高の [\#FridayHug](http://fridayhug.com) に出会えるでしょう。
+- 今までに見たことがないような最高の [\#FridayHug](https://fridayhug.com) に出会えるでしょう。
 - あなたは、技術やプログラミングに興味を持っていない女性の固定観念を打破する手伝いができます。それはあなたの姉妹、女性の友人や親戚、（将来の）娘さんがより多く将来への選択肢を持つきっかけになるでしょう。そしてさらに、あなたは履歴書にこのことを追加することもできるのです！
 
 ### どんな技術が選ばれているか
@@ -84,11 +84,11 @@ Rails Girls では誰もが受け入れられ、安全で、居心地のいい�
 
 Rails Girls のコーチによるその他の有益な体験型の情報は以下です。
 
-- [4 lessons learned from teaching at Rails Girls Berlin](http://pragtob.wordpress.com/2012/08/14/4-lessons-learned-from-teaching-at-rails-girls-berlin/)
-- [I infiltrated #railsgirlslj, here’s what it was like](http://swizec.com/blog/i-infiltrated-railsgirlsj-heres-what-it-was-like/swizec/5717)
-- [8 ways to enable workshop attendess to keep learning](http://pragtob.wordpress.com/2013/06/14/8-ways-to-enable-workshop-attendess-to-keep-learning/)
-- [What I learned learning Rails / becoming a better teacher](http://floordrees.tumblr.com/post/58784746482/what-i-learned-learning-rails-becoming-a-better)
-- [Tips for coaching a programming study group](http://coaching.rubymonstas.org/)
+- [4 lessons learned from teaching at Rails Girls Berlin](https://pragtob.wordpress.com/2012/08/14/4-lessons-learned-from-teaching-at-rails-girls-berlin/)
+- [I infiltrated #railsgirlslj, here’s what it was like](https://swizec.com/blog/i-infiltrated-railsgirlsj-heres-what-it-was-like/swizec/5717)
+- [8 ways to enable workshop attendess to keep learning](https://pragtob.wordpress.com/2013/06/14/8-ways-to-enable-workshop-attendess-to-keep-learning/)
+- [What I learned learning Rails / becoming a better teacher](https://floordrees.tumblr.com/post/58784746482/what-i-learned-learning-rails-becoming-a-better)
+- [Tips for coaching a programming study group](https://coaching.rubymonstas.org/)
 
-[app]: http://railsgirls.jp/app
-[install]: http://railsgirls.jp/install
+[app]: https://railsgirls.jp/app
+[install]: https://railsgirls.jp/install

@@ -8,7 +8,7 @@ permalink: touristic-autism_basic-app
 
 *Created by Myriam Leggieri, [@iammyr](https://twitter.com/iammyr)*
 *for [Rails Girls Galway](https://github.com/RailsGirlsGalway)*
-The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](http://www.railstutorial.org/book), the [basic RailsGirls app](http://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](http://guides.railsgirls.com/thumbnails), [authenticating users](http://guides.railsgirls.com/devise/), [adding design](http://guides.railsgirls.com/design), [deploying to OpenShift](http://guides.railsgirls.com/openshift/) and [adding comments](http://guides.railsgirls.com/commenting).
+The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](https://www.railstutorial.org/book), the [basic RailsGirls app](https://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](https://guides.railsgirls.com/thumbnails), [authenticating users](https://guides.railsgirls.com/devise/), [adding design](https://guides.railsgirls.com/design), [deploying to OpenShift](https://guides.railsgirls.com/openshift/) and [adding comments](https://guides.railsgirls.com/commenting).
 
 
 
@@ -20,7 +20,7 @@ The basic guides that have been merged and adapted are the [Ruby on Rails Tutori
 
 <h3>Text Editor</h3>
 
-<p><a href="http://www.sublimetext.com">Sublime Text</a>, <a href="http://www.activestate.com/komodo-edit">Komodo Edit</a>, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
+<p><a href="https://www.sublimetext.com">Sublime Text</a>, <a href="https://www.activestate.com/komodo-edit">Komodo Edit</a>, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
 
 <h3><i class="icon-prompt">&nbsp;</i></h3>
 

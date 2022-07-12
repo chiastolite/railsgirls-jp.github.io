@@ -21,7 +21,7 @@ permalink: simpleapp
 
 <h3>Text Editor</h3>
 
-<p><a href="http://www.sublimetext.com">Sublime Text</a>, <a href="http://www.activestate.com/komodo-edit">Komodo Edit</a>, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
+<p><a href="https://www.sublimetext.com">Sublime Text</a>, <a href="https://www.activestate.com/komodo-edit">Komodo Edit</a>, Vim, Emacs, and Gedit are examples of text editors your can use for writing code and editing files.</p>
 
 <h3><i class="icon-prompt">&nbsp;</i></h3>
 
@@ -70,14 +70,14 @@ You can verify you are now in an empty directory or folder by again running the 
     </div>
 
 {% highlight sh %}
-rails new railsgirls -m http://railsgirls.com/simple_scaffold.rb
+rails new railsgirls -m https://railsgirls.com/simple_scaffold.rb
 {% endhighlight %}
 
     <div>
         <code>rails new railsgirls</code> tells Rails to generate a project called railsgirls with all the files that our application needs.
     </div>
     <div>
-        <code>-m http://railsgirls.com/simple_scaffold.rb</code> tells Rails to download a special template from railsgirls.com which makes the files a bit simpler and easier for beginners to understand.
+        <code>-m https://railsgirls.com/simple_scaffold.rb</code> tells Rails to download a special template from railsgirls.com which makes the files a bit simpler and easier for beginners to understand.
     </div>
     <div>
 This will create a new app in the folder <code>railsgirls</code>, so we again want to change the directory to be inside of our rails app by running:
@@ -114,14 +114,14 @@ You can verify you are now in an empty directory or folder by again running the 
     </div>
 
 {% highlight sh %}
-rails new railsgirls -m http://railsgirls.com/simple_scaffold.rb
+rails new railsgirls -m https://railsgirls.com/simple_scaffold.rb
 {% endhighlight %}
 
     <div>
         <code>rails new railsgirls</code> tells Rails to generate a project called railsgirls with all the files that our application needs.
     </div>
     <div>
-        <code>-m http://railsgirls.com/simple_scaffold.rb</code> tells Rails to download a special template from railsgirls.com which makes the files a bit simpler and easier for beginners to understand.
+        <code>-m https://railsgirls.com/simple_scaffold.rb</code> tells Rails to download a special template from railsgirls.com which makes the files a bit simpler and easier for beginners to understand.
     </div>
     <div>
 This will create a new app in the folder <code>railsgirls</code>, so we again want to change the directory to be inside of our rails app by running:
@@ -427,10 +427,10 @@ Now you can open the file `app/views/pages/info.html.erb` and add information ab
 
 ## Additional Guides
 
-* Guide 0: [Handy cheatsheet for Ruby, Rails, console etc.](http://www.pragtob.info/rails-beginner-cheatsheet/)
+* Guide 0: [Handy cheatsheet for Ruby, Rails, console etc.](https://www.pragtob.info/rails-beginner-cheatsheet/)
 * Guide 1: [Add commenting by Janika Liiv](/commenting)
 * Guide 2: [Put your app online with Heroku by Terence Lee](/heroku) / [Put your app online with OpenShift by Katie Miller](/openshift)
-* Guide 3: [Build a map of workshop participants by Rails Girls Berlin](http://railsgirlsberlin.de/apptutorial/)
+* Guide 3: [Build a map of workshop participants by Rails Girls Berlin](https://railsgirlsberlin.de/apptutorial/)
 * Guide 4: [Create thumbnail images for the uploads by Miha Filej](/thumbnails)
 * Guide 5: [Add design using HTML &amp; CSS by Alex Liao](/design)
 * Guide 6: [Add Authentication (user accounts) with Devise by Piotr Steininger](/devise/)

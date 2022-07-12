@@ -24,12 +24,12 @@ permalink: affirmative-action
 
 [日本RailsGirls活動紹介 // Speaker Deck](https://speakerdeck.com/yotii23/ri-ben-railsgirlshuo-dong-shao-jie)
 
-[プログラミングを6歳の女の子にも　北欧から世界に広がる女性プログラマの輪 : HRナビ by リクルート](http://www.huffingtonpost.jp/hrnavi/woman-programer_b_6741470.html)
+[プログラミングを6歳の女の子にも　北欧から世界に広がる女性プログラマの輪 : HRナビ by リクルート](https://www.huffingtonpost.jp/hrnavi/woman-programer_b_6741470.html)
 
 [女性がプログラミングを学ぶきっかけを作りたい！「Rails Girls Shiojiri 1st」開催レポート : Think IT（シンクイット）](https://thinkit.co.jp/story/2015/04/17/5684)
 
-[厚生労働省: ポジティブ・アクション（女性社員の活躍推進）に取り組まれる企業の方へ](http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku04/index.html)
+[厚生労働省: ポジティブ・アクション（女性社員の活躍推進）に取り組まれる企業の方へ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku04/index.html)
 
-[内閣府男女共同参画局: ポジティブ・アクション](http://www.gender.go.jp/policy/positive_act/index.html)
+[内閣府男女共同参画局: ポジティブ・アクション](https://www.gender.go.jp/policy/positive_act/index.html)
 
 [アファーマティブ・アクション - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%A1%E3%83%BC%E3%83%9E%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)

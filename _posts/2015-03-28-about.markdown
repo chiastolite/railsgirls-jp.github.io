@@ -8,7 +8,7 @@ permalink: about
 
 ## このサイトについて
 
-このサイトは [Rails Girls Guide](http://guides.railsgirls.com) の日本語版と Rails Girls Japan の活動内容について紹介するサイトです。
+このサイトは [Rails Girls Guide](https://guides.railsgirls.com) の日本語版と Rails Girls Japan の活動内容について紹介するサイトです。
 
 ## Rails Girls Japan の活動趣旨
 
@@ -19,7 +19,7 @@ permalink: about
 Rails Girls Japan は日本における Rails Girls イベントの開催を支援する団体です。RailsGirls イベントとは、以下の項目を満たすイベントです。
 
  * プログラミングのワークショップを開催する
- * http://railsgirls.com/ より開催の申し込みを行う
+ * https://railsgirls.com/ より開催の申し込みを行う
  * 参加者は無料でワークショップに参加できる
 
 Rails Girls Japan の支援内容は以下のとおりです。
@@ -32,7 +32,7 @@ Rails Girls Japan の支援内容は以下のとおりです。
 Rails Girls Japan では、Rails Girls イベントの支援以外に以下の活動も行っています。
 
  * オリジナルのドキュメント(英語)を日本語に翻訳し、このサイトで公開します。
- * イベントの内容紹介を行う[ブログ](http://blog.railsgirls.jp)を執筆し、日本で開催されるRails Girlsイベントについて紹介します。
+ * イベントの内容紹介を行う[ブログ](https://blog.railsgirls.jp)を執筆し、日本で開催されるRails Girlsイベントについて紹介します。
 
 当サイトを手伝ってくれる方は[issue tracker](https://github.com/railsgirls-jp/railsgirls-jp.github.com/issues)にて連絡してください。
 
@@ -65,7 +65,7 @@ Rails Girls Japan は日本での Rails Girls イベントの継続開催のサ�
 
 * オーガナイザーの要請に応じて、地方間のコーチ派遣の交通費の資金援助を行います。交通費は公共交通機関を利用し3千円以上の場合に限り、上限を1万円として実費の半額を補助します。
 * イベントを開催する予定のオーガナイザーが、イベント開催に必要なことを学ぶために、他の地域のイベントへの参加を希望する場合、交通費と宿泊費の全額を補助します。
-  * 補助の対象は http://www.railsgirls.com/inyourcity から開催宣言をしたオーガナイザーに限ります。
+  * 補助の対象は https://www.railsgirls.com/inyourcity から開催宣言をしたオーガナイザーに限ります。
 
 ## メンバー
 

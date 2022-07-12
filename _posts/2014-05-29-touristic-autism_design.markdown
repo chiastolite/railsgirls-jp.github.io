@@ -8,7 +8,7 @@ permalink: touristic-autism_design
 
 *Created by Myriam Leggieri, [@iammyr](https://twitter.com/iammyr)*
 *for [Rails Girls Galway](https://github.com/RailsGirlsGalway)*
-The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](http://www.railstutorial.org/book), the [basic RailsGirls app](http://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](http://guides.railsgirls.com/thumbnails), [authenticating users](http://guides.railsgirls.com/devise/), [adding design](http://guides.railsgirls.com/design), [deploying to OpenShift](http://guides.railsgirls.com/openshift/) and [adding comments](http://guides.railsgirls.com/commenting).
+The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](https://www.railstutorial.org/book), the [basic RailsGirls app](https://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](https://guides.railsgirls.com/thumbnails), [authenticating users](https://guides.railsgirls.com/devise/), [adding design](https://guides.railsgirls.com/design), [deploying to OpenShift](https://guides.railsgirls.com/openshift/) and [adding comments](https://guides.railsgirls.com/commenting).
 
 **Coach:** Talk about the relationship between HTML and Rails. What part of views is HTML and what is Embedded Ruby (ERB)? What is MVC and how does this relate to it? (Models and controllers are responsible for generating the HTML views.)
 
@@ -86,7 +86,7 @@ th { border-bottom: 1px solid #DDD; }
 
 Now make sure you saved your files and refresh the browser to see what was changed. You can also change the HTML & CSS further.
 
-In case your Terminal shows you an error message that *sort of* implies there is something wrong with your JavaScript or CoffeeScript, install [nodejs](http://nodejs.org/download/). This issue should not appear when you've used the RailsInstaller (but when you've installed Rails via ```gem install rails```).
+In case your Terminal shows you an error message that *sort of* implies there is something wrong with your JavaScript or CoffeeScript, install [nodejs](https://nodejs.org/download/). This issue should not appear when you've used the RailsInstaller (but when you've installed Rails via ```gem install rails```).
 
 **Coach:** Talk a little about CSS and layouts.
 
@@ -104,7 +104,7 @@ In case your Terminal shows you an error message that *sort of* implies there is
 
   Now refresh the page and check the changes. You can try change the
     color or font of the header. You can check the color reference
-    from [http://color.uisdc.com/](http://color.uisdc.com/).
+    from [https://color.uisdc.com/](https://color.uisdc.com/).
 
     **Coach: ** talk about the property `display`, inline and block element.
 
@@ -124,7 +124,7 @@ In case your Terminal shows you an error message that *sort of* implies there is
 
 2.Design your table
 
- + We simply use the twitter [Bootstrap](http://getbootstrap.com/) to
+ + We simply use the twitter [Bootstrap](https://getbootstrap.com/) to
    polish our table。find this line from
    app/views/places/index.html.erb and replace:
 
@@ -160,7 +160,7 @@ In case your Terminal shows you an error message that *sort of* implies there is
 
  + try add some background style with property `background-image`,
    reference to
-   [http://subtlepatterns.com/](http://subtlepatterns.com/) for some patterns.
+   [https://subtlepatterns.com/](https://subtlepatterns.com/) for some patterns.
 
 
 3.add style to footer
@@ -202,13 +202,13 @@ In case your Terminal shows you an error message that *sort of* implies there is
 Open `app/views/layouts/application.html.erb` in your text editor and replace the line
 
 {% highlight html %}
-<link rel="stylesheet" href="http://railsgirls.com/assets/bootstrap.css">
+<link rel="stylesheet" href="https://railsgirls.com/assets/bootstrap.css">
 {% endhighlight %}
 
 with
 
 {% highlight html %}
-<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap.min.css">
 {% endhighlight %}
 
 Open `app/assets/stylesheets/application.css`, replace the line

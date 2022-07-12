@@ -6,11 +6,11 @@ permalink: trucker
 
 # Put Your App Online With Trucker.io
 
-*Created by Floor Drees, [@floordrees](https://twitter.com/floordrees) for [Rails Girls Leiden](http://railsgirls.com/leiden)* 
+*Created by Floor Drees, [@floordrees](https://twitter.com/floordrees) for [Rails Girls Leiden](https://railsgirls.com/leiden)* 
 
 ### Get Trucker
 
-Follow steps 1 through 3 of the [Getting Started guide](http://developers.trucker.io/Getting-Started) to create an account, install the command line tool and login.
+Follow steps 1 through 3 of the [Getting Started guide](https://developers.trucker.io/Getting-Started) to create an account, install the command line tool and login.
 
 To install `trucker-cli` (the command line tool), type:
 {% highlight sh %}
@@ -134,7 +134,7 @@ Preparing to start railsgirls... OK
 (...)
 Checking status of app 'railsgirls'...
   1 of 1 instances running (1 running)
-Push successful! App 'railsgirls' available at http://railsgirls.ie.trucker.io
+Push successful! App 'railsgirls' available at https://railsgirls.ie.trucker.io
 {% endhighlight %}
 
-Your application is now available at http://railsgirls.ie.trucker.io!
+Your application is now available at https://railsgirls.ie.trucker.io!

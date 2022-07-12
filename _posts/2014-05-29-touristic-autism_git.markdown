@@ -8,7 +8,7 @@ permalink: touristic-autism_git
 
 *Created by Myriam Leggieri, [@iammyr](https://twitter.com/iammyr)*
 *for [Rails Girls Galway](https://github.com/RailsGirlsGalway)*
-The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](http://www.railstutorial.org/book), the [basic RailsGirls app](http://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](http://guides.railsgirls.com/thumbnails), [authenticating users](http://guides.railsgirls.com/devise/), [adding design](http://guides.railsgirls.com/design), [deploying to OpenShift](http://guides.railsgirls.com/openshift/) and [adding comments](http://guides.railsgirls.com/commenting).
+The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](https://www.railstutorial.org/book), the [basic RailsGirls app](https://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](https://guides.railsgirls.com/thumbnails), [authenticating users](https://guides.railsgirls.com/devise/), [adding design](https://guides.railsgirls.com/design), [deploying to OpenShift](https://guides.railsgirls.com/openshift/) and [adding comments](https://guides.railsgirls.com/commenting).
 
 
 Navigate to the root directory of the first app and initialize a new repository:
@@ -72,7 +72,7 @@ Git commits are local, recorded only on the machine on which the commits occur. 
 </div>
 
 Now we want our changes to be pushed from our local machine to a remote repository.
-[Create a repository](http://github.com/new) called "railsgirls-galway-2014" and fill in the information. Do not to initialize the repository with a README file since "rails new" already created that automatically. 
+[Create a repository](https://github.com/new) called "railsgirls-galway-2014" and fill in the information. Do not to initialize the repository with a README file since "rails new" already created that automatically. 
 Push up your local changes to the remote repository as follows:
 
 <div class="os-specific">

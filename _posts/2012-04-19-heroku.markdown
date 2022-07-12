@@ -36,7 +36,7 @@ Heroku でコマンドライン操作を行うためのアプリケーション�
 
 ##### Macの場合
 
-[Ruby, Railsのインストール時に](http://railsgirls.jp/install)Homebrewをインストールしているはずなので、Homebrewを使ってインストールできます。
+[Ruby, Railsのインストール時に](https://railsgirls.jp/install)Homebrewをインストールしているはずなので、Homebrewを使ってインストールできます。
 
 {% highlight sh %}
 brew install heroku/brew/heroku
@@ -152,7 +152,7 @@ heroku create my-first-app
 
 {% highlight sh %}
 Creating ⬢ my-first-app... done
-http://my-first-app.herokuapp.com/ | https://git.heroku.com/my-first-app.git
+https://my-first-app.herokuapp.com/ | https://git.heroku.com/my-first-app.git
 {% endhighlight %}
 
 もし、決めたアプリの名前が既に使われていたら、以下のようなメッセージが表示されます。 :
@@ -258,7 +258,7 @@ heroku run rails db:migrate
 
 公共のネットワークなどを使った場合、`ETIMEDOUT: connect ETIMEDOUT (IPアドレス):5000` というエラーが起きることがあります。エラーになった場合は実行するコマンドを `heroku run:detached rails db:migrate` に変更してみてください。
 
-そのコマンドが実行されたら、インターネットからアプリを見ることができます。このアプリの例ではURLは、 [http://my-first-app.herokuapp.com/](http://my-first-app.herokuapp.com) です。もしくは、クラウドIDE以外ならターミナルで次のコマンドを実行すれば、そのページを見に行くことができます。
+そのコマンドが実行されたら、インターネットからアプリを見ることができます。このアプリの例ではURLは、 [https://my-first-app.herokuapp.com/](https://my-first-app.herokuapp.com) です。もしくは、クラウドIDE以外ならターミナルで次のコマンドを実行すれば、そのページを見に行くことができます。
 
 {% highlight sh %}
 heroku open
@@ -295,6 +295,6 @@ Heroku のプラットフォームは癖がない訳ではありません。Hero
 この機能は少しだけこのチュートリアルの範囲から外れますが、以下のようなリソースを参考に、目的にあった方法を見つける事ができるでしょう。
 
 * [How to: Make Carrierwave work on Heroku](https://github.com/carrierwaveuploader/carrierwave/wiki/How-to%3A-Make-Carrierwave-work-on-Heroku)
-* [Amazon S3 - The Beginner' Guide](http://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/)
+* [Amazon S3 - The Beginner' Guide](https://www.hongkiat.com/blog/amazon-s3-the-beginners-guide/)
 
 いつものように、わからない事がある場合や手助けが必要な場合は担当のコーチが対応してくれます。

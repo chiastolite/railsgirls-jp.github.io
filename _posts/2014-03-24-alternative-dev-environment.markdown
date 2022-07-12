@@ -15,7 +15,7 @@ Considering the things above, we created a virtual development environment for t
 
 ## Virtual Machine
 
-A [virtual machine (VM)](http://en.wikipedia.org/wiki/Virtual_machine) is a software-based emulation of a computer.
+A [virtual machine (VM)](https://en.wikipedia.org/wiki/Virtual_machine) is a software-based emulation of a computer.
 
 ### Limitations
 
@@ -33,7 +33,7 @@ VirtualBox is Oracle's virtualization platform, which can be downloaded on all t
 
 ### Rails Girls virtual machine
 
-Please download the virtal machine created for this event from [here](http://www.digitalnatives.hu/demos/railsgirls/railsgirls_virtualbox_vm.zip). After downloading, please unzip the file, and put it's contents to a folder.
+Please download the virtal machine created for this event from [here](https://www.digitalnatives.hu/demos/railsgirls/railsgirls_virtualbox_vm.zip). After downloading, please unzip the file, and put it's contents to a folder.
 Let's open the already install VirtualBox application. Please find Machine/Add in the menu. Browse the previously created folder containing our VM, and select the file with *vbox* extension.
 If you did everything right, a new VM appeared on the left sidebar with the name *RailsGirls*. So we can start it for the first time!
 
@@ -112,4 +112,4 @@ Now let's check in our own operation system, if the shared folder contains a fil
 
 ## Editor
 
-The code editor is a really clever text editor, in which we are going to write our application's codebase. We really love Sublime Text Editor, you can download if from [http://www.sublimetext.com/3](http://www.sublimetext.com/3).
+The code editor is a really clever text editor, in which we are going to write our application's codebase. We really love Sublime Text Editor, you can download if from [https://www.sublimetext.com/3](https://www.sublimetext.com/3).

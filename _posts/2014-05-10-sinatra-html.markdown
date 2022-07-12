@@ -40,5 +40,5 @@ Write something to turn the `$coffees` global variable into HTML that looks like
 
 We’ll want to loop over the `$coffees` array and turn each hash into an HTML string, surrounded by `<div>`s, which should then be all joined together with `<br/>`s. We’ll also need to ensure we’re returning a string.
 
-For some solution ideas, [check this out](http://tjmcewan.github.io/coffeecalc/snippets/coffees_html.rb.txt).
+For some solution ideas, [check this out](https://tjmcewan.github.io/coffeecalc/snippets/coffees_html.rb.txt).
 

@@ -8,7 +8,7 @@ permalink: touristic-autism_resource-modeling
 
 *Created by Myriam Leggieri, [@iammyr](https://twitter.com/iammyr)*
 *for [Rails Girls Galway](https://github.com/RailsGirlsGalway)*
-The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](http://www.railstutorial.org/book), the [basic RailsGirls app](http://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](http://guides.railsgirls.com/thumbnails), [authenticating users](http://guides.railsgirls.com/devise/), [adding design](http://guides.railsgirls.com/design), [deploying to OpenShift](http://guides.railsgirls.com/openshift/) and [adding comments](http://guides.railsgirls.com/commenting).
+The basic guides that have been merged and adapted are the [Ruby on Rails Tutorial](https://www.railstutorial.org/book), the [basic RailsGirls app](https://guides.railsgirls.com/app/) and the tutorials for [creating thumbnails](https://guides.railsgirls.com/thumbnails), [authenticating users](https://guides.railsgirls.com/devise/), [adding design](https://guides.railsgirls.com/design), [deploying to OpenShift](https://guides.railsgirls.com/openshift/) and [adding comments](https://guides.railsgirls.com/commenting).
 
 What do we want our app to do? As a first thing, we would like to 
 * authenticate **users**

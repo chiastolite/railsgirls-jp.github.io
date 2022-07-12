@@ -8,11 +8,11 @@ permalink: gravatar
 
 *Created by Catherine Jones*
 
-このガイドは、すでに [RailsGirls アプリ・チュートリアル](http://guides.railsgirls.com/app/) と [Deviseによる認証を追加してみよう](http://guides.railsgirls.com/devise/) でアプリを作った方を対象にしています。
+このガイドは、すでに [RailsGirls アプリ・チュートリアル](https://guides.railsgirls.com/app/) と [Deviseによる認証を追加してみよう](https://guides.railsgirls.com/devise/) でアプリを作った方を対象にしています。
 
 ### 重要
 
-Gravatarにあなたのメールアドレスを登録する必要があります。まだ登録を済ませていない方はこちらで登録をしてください。 [gravatar.com](http://en.gravatar.com/).
+Gravatarにあなたのメールアドレスを登録する必要があります。まだ登録を済ませていない方はこちらで登録をしてください。 [gravatar.com](https://en.gravatar.com/).
 
 ## *1.*Gravtastic gem を追加する
 

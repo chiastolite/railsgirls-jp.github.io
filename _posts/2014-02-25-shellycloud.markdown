@@ -9,7 +9,7 @@ permalink: shellycloud
 
 [Shelly Cloud](https://shellycloud.com/) is a PaaS (Platform as a Service) hosting provider, dedicated for Ruby on Rails apps. New users get €20 worth of credit to run their applications, which is more than enough to show off your first Rails app for a couple of weeks.
 
-This guide assumes you followed through with [your first Rails app guide](http://guides.railsgirls.com/app/). If you get stuck at any point in this tutorial, take a look at the [docs](https://shellycloud.com/documentation/quick_start) or use one of our [support channels](https://shellycloud.com/support).
+This guide assumes you followed through with [your first Rails app guide](https://guides.railsgirls.com/app/). If you get stuck at any point in this tutorial, take a look at the [docs](https://shellycloud.com/documentation/quick_start) or use one of our [support channels](https://shellycloud.com/support).
 
 __Coach:__ For an overview of deploying to Shelly Cloud, look at the [Quick Start guide](https://shellycloud.com/documentation/quick_start).
 
@@ -44,7 +44,7 @@ __Coach:__ Talk about relational databases and the differences between SQLite an
 
 ## Initialize your git repository
 
-You should now commit the changes to your git repository. If you haven't initialized one yet, take a look at this [Github Rails Girls guide](http://guides.railsgirls.com/github/) or use the [Github's docs](https://help.github.com/articles/set-up-git) directly.
+You should now commit the changes to your git repository. If you haven't initialized one yet, take a look at this [Github Rails Girls guide](https://guides.railsgirls.com/github/) or use the [Github's docs](https://help.github.com/articles/set-up-git) directly.
 
 When your repo is all set, use `git commit` to save your changes.
 
@@ -126,4 +126,4 @@ Starting cloud successful
 
 ## Celebrate!
 
-Your app is now live at [http://your-cloud-name.shellyapp.com](http://your-cloud-name.shellyapp.com). Share it with the world and keep coding!
+Your app is now live at [https://your-cloud-name.shellyapp.com](https://your-cloud-name.shellyapp.com). Share it with the world and keep coding!

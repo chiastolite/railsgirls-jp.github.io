@@ -39,7 +39,7 @@ permalink: bundlerfordevelopment
 
     `$ rake spec:deps`
 
-    What is rake? [http://rake.rubyforge.org/](http://rake.rubyforge.org/)
+    What is rake? [https://rake.rubyforge.org/](https://rake.rubyforge.org/)
 
 6. Run the Bundler test suite
 

@@ -6,9 +6,9 @@ permalink: design
 
 # HTML & CSS を使ってデザインしてみよう
 
-*Created by Alex Liao, [@alexliao](http://bannka.com/alex), Translated by Hiroshi SHIBATA [@hsbt](http://twitter.com/hsbt)
+*Created by Alex Liao, [@alexliao](https://bannka.com/alex), Translated by Hiroshi SHIBATA [@hsbt](https://twitter.com/hsbt)
 
-アプリケーションは完成しましたが、まだ scaffold で自動生成した状態です。いくつかのデザインを追加してよく見かける Web サイトのようにしてみましょう。このチュートリアルが終わった時に、あなたのアプリケーションは[この](http://railsgirlsapp.herokuapp.com/ideas)ようになるはずです。
+アプリケーションは完成しましたが、まだ scaffold で自動生成した状態です。いくつかのデザインを追加してよく見かける Web サイトのようにしてみましょう。このチュートリアルが終わった時に、あなたのアプリケーションは[この](https://railsgirlsapp.herokuapp.com/ideas)ようになるはずです。
 
 ## *1.*アプリケーションのレイアウトを適用してみよう
 

@@ -44,7 +44,7 @@ rhc app create openshiftapp ruby-2.0 postgresql-9.2 --from-code=https://github.c
 
 `Are you sure you want to continue connecting (yes/no)?` のような英語のメッセージが出たら、 `yes` をタイプしてエンターキーを押してください。
 
-アウトプットにはURLが含まれています。ブラウザを開き、そのアプリケーションURLを入力して、サンプルアプリケーションを見てみましょう (http://openshiftapp-*yourdomain*.rhcloud.com というURLになるでしょう)
+アウトプットにはURLが含まれています。ブラウザを開き、そのアプリケーションURLを入力して、サンプルアプリケーションを見てみましょう (https://openshiftapp-*yourdomain*.rhcloud.com というURLになるでしょう)
 
 __Coachへ__: Gitとは何か、なぜバージョンコントロールシステムを使うのかを説明してください。
 

@@ -18,7 +18,7 @@ nav.navbar {
 
 では、ページを更新して変更を確認しましょう。
 それから、ヘッダーの色やフォントをいろいろ変えて、試してみましょう。
-[http://color.uisdc.com/](http://color.uisdc.com/) では、色のリファレンスを見ることができます。
+[https://color.uisdc.com/](https://color.uisdc.com/) では、色のリファレンスを見ることができます。
 
 次に、これらの行をコードの一番下に追加します。：
 
@@ -36,7 +36,7 @@ nav.navbar {
 
 ## *2.*table をデザインしよう
 
-table により磨きをかけるために、twitter [Bootstrap](http://getbootstrap.com) を使います。
+table により磨きをかけるために、twitter [Bootstrap](https://getbootstrap.com) を使います。
 この行を `app/views/ideas/index.html.erb` から見つけて、以下のように置き換えてください。：
 
 {% highlight html %}
@@ -67,7 +67,7 @@ width を変更してみて、何が起こるか見てみましょう。
 }
 {% endhighlight %}
 
-[http://subtlepatterns.com/](http://subtlepatterns.com/) のいくつかのパターンを参考に、`background-image` プロパティを使って、背景のスタイルを追加してみましょう。
+[https://subtlepatterns.com/](https://subtlepatterns.com/) のいくつかのパターンを参考に、`background-image` プロパティを使って、背景のスタイルを追加してみましょう。
 
 
 ## *3.*footer にスタイルを追加しよう

@@ -56,7 +56,7 @@ Mac OS X 10.9 以上の場合は、Homebrew と rbenv を使って環境をつ�
 xcode-select --install
 {% endhighlight %}
 
-#### 3-2. [Homebrew](http://brew.sh/)をインストール:
+#### 3-2. [Homebrew](https://brew.sh/)をインストール:
 
 {% highlight sh %}
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
@@ -108,8 +108,8 @@ gem install rails --no-document
 * [Visual Studio Codeをダウンロードしてインストールする](https://code.visualstudio.com/)
 
 Mac OS X 10.9 およびそれ以前のバージョンでは、 Visual Studio Codeは非対応ですが、  
-Mac OS X 10.7〜10.9までは  [Sublime Text 3](http://www.sublimetext.com/3)  が、 
-Mac OS X 10.6では  [Sublime Text 2](http://www.sublimetext.com/2) が、利用可能です。
+Mac OS X 10.7〜10.9までは  [Sublime Text 3](https://www.sublimetext.com/3)  が、 
+Mac OS X 10.6では  [Sublime Text 2](https://www.sublimetext.com/2) が、利用可能です。
 
 
 ### *5.* 動作確認
@@ -337,7 +337,7 @@ Rails 7.0.3
 
 * [Visual Studio Codeをダウンロードしてインストールする](https://code.visualstudio.com/)
 
-Windows Vista およびそれ以前のバージョンでは Visual Studio Code は非対応ですが、[Sublime Text](http://www.sublimetext.com/2) を利用可能です。 
+Windows Vista およびそれ以前のバージョンでは Visual Studio Code は非対応ですが、[Sublime Text](https://www.sublimetext.com/2) を利用可能です。 
 
 ※ Windows で Sublime Text を使う場合、日本語入力欄が入力箇所に出ない問題があります。  
 気になる場合は以下の手順で日本語入力パッチ(修正プログラム)をインストールしてください。  
@@ -474,7 +474,7 @@ bash < <(curl -sL https://raw.github.com/railsgirls/installation-scripts/master/
 {% endhighlight %}
 
 gnome-terminal を使って RVM インストールを行いたいときは、Ruby と Rails の正しいバージョンを確かめる前にオプションを変更する必要があるかもしれません。
-[RVM documentation](http://rvm.io/integration/gnome-terminal) を参照してください。
+[RVM documentation](https://rvm.io/integration/gnome-terminal) を参照してください。
 
 #### Fedoraの場合:
 
@@ -494,7 +494,7 @@ rails server
 
 このワークショップでは Sublime Text エディタを推奨しています。
 
-* [Sublime Text エディタをダウンロードしてインストールする](http://www.sublimetext.com/2)
+* [Sublime Text エディタをダウンロードしてインストールする](https://www.sublimetext.com/2)
 
 これで、Ruby on Railsのプログラミングを始められるまでの環境セットアップは終了です。おめでとう！
 
@@ -759,7 +759,7 @@ bundle exec rails server -b 0.0.0.0
 
 『*3.* Workspace の設定』で設定したサーバーURLに｀/books‘を付加してブラウザで開きます。
 
-URL例：　`http://node12.codenvy.io:50322/books`
+URL例：　`https://node12.codenvy.io:50322/books`
 
 ![](/images/codenvy/books-index.png)
 
@@ -773,4 +773,4 @@ URL例：　`http://node12.codenvy.io:50322/books`
 * ガイドやチュートリアルをやる場合は、たとえ Windows コンピュータを使っている場合でも、Linux向けのコマンドを参考にするようにして下さい。あなたが作成しているプロジェクトは、Linux が動作しているクラウド上のサーバーで動作しているからです。
 * ガイドやチュートリアルで `rails` や `rake` から始まる Rails 関連のコマンドは、はじめに `bundle exec` をつけてから実行するようにして下さい。`rails new` コマンドは例外です。
 * ガイドやチュートリアルで `rails server` や `rails s` を実行するように指示している場合は、`rails server -b 0.0.0.0` のように `-b 0.0.0.0` を後につけて下さい。
-* ガイドやチュートリアルが、`http://localhost:3000` にブラウザでアクセスするように指示している場合は、「Workspace の設定」で記録した `http://node1.codenvy.io:12345` のようなアドレス を使ってアクセスして下さい。例えば、チュートリアルが `http://localhost:3000/posts` にアクセスするように指示している場合は、`http://node1.codenvy.io:12345/posts` にアクセスして下さい。
+* ガイドやチュートリアルが、`http://localhost:3000` にブラウザでアクセスするように指示している場合は、「Workspace の設定」で記録した `https://node1.codenvy.io:12345` のようなアドレス を使ってアクセスして下さい。例えば、チュートリアルが `http://localhost:3000/posts` にアクセスするように指示している場合は、`https://node1.codenvy.io:12345/posts` にアクセスして下さい。

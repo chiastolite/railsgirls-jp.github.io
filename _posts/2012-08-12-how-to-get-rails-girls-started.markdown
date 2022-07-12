@@ -44,7 +44,7 @@ Rails Girls Tokyoの場合、原田が言い始めたところ、かくたにさ
 #### 3. Shout Out
 <br/>
 ここのフォームに「この街でやるよー！」と書き込む。英語。
-[http://railsgirls.com/inyourcity](http://railsgirls.com/inyourcity)
+[https://railsgirls.com/inyourcity](https://railsgirls.com/inyourcity)
 <br/>
 このとき、誰がこの Shout Out を Rails Gilrs ML に流してくれたかを
 見ておくといい。その人が、Shout Outしたイベントの担当者らしい。
@@ -69,8 +69,8 @@ Google Groupsを選んだ。使いやすさでは今ひとつかもしれない�
 
 #### 5. 参加受付サイトを用意する
 <br/>
-Rails Girls Tokyo は [DoorKeeper](http://www.doorkeeper.jp/) を使用。
-他に、[イベントアテンド](http://atnd.org/) がある。Google Docs を使うという手も
+Rails Girls Tokyo は [DoorKeeper](https://www.doorkeeper.jp/) を使用。
+他に、[イベントアテンド](https://atnd.org/) がある。Google Docs を使うという手も
 あるようだ。<br/>
 Doorkeeperを運営している mobalean の Paul McMahon さんは協力的。
 <br/>
